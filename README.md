@@ -2,11 +2,9 @@
 
 # Hello Microverse
 
-> Project one module one
+> First project module one
 
 ![screenshot](./app.png)
-
-Additional description about the project and its features.
 
 ## Built With
 
@@ -19,7 +17,7 @@ CSS
 [Live Demo Link](https://livedemo.com)
 
 ### Setup
-linters 
+Configure linters 
 ### Install
 VS Code or any text editor
 
@@ -28,15 +26,10 @@ VS Code or any text editor
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/Obote)
-- Twitter: [@obote_denis]https://twitter.com/Obote_denis)
+- GitHub: [Obote](https://github.com/Obote)
+- Twitter: [@obote_denis](https://twitter.com/Obote_denis)
 - LinkedIn: [Obote Denis](https://www.linkedin.com/in/obote-denis-9859a2a3/)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
