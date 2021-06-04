@@ -14,7 +14,7 @@ CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://obote.github.io/Hello-Microverse/)
 
 ### Setup
 Configure linters 
